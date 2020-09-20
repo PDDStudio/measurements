@@ -1,7 +1,6 @@
-name: Run Tests
+name: Run Flutter Tests
 
 on:
-    push:
     pull_request:
         branches:
             - develop
